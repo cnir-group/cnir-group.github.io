@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Complexity theory | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/tag/complexity-theory/</link><atom:link href="https://cnir-group.github.io/tag/complexity-theory/index.xml" rel="self" type="application/rss+xml"/><description>Complexity theory</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Complexity theory</title><link>https://cnir-group.github.io/tag/complexity-theory/</link></image><item><title>Parallel Transport Tractography</title><link>https://cnir-group.github.io/publication/aydogan-parallel-2021/</link><pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/aydogan-parallel-2021/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complexity theory | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/tag/complexity-theory/</link>
+      <atom:link href="https://cnir-group.github.io/tag/complexity-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Complexity theory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Complexity theory</title>
+      <link>https://cnir-group.github.io/tag/complexity-theory/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Transport Tractography</title>
+      <link>https://cnir-group.github.io/publication/aydogan-parallel-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/aydogan-parallel-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

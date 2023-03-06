@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elli Käpylä | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/elli-kapyla/</link><atom:link href="https://cnir-group.github.io/authors/elli-kapyla/index.xml" rel="self" type="application/rss+xml"/><description>Elli Käpylä</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Elli Käpylä</title><link>https://cnir-group.github.io/authors/elli-kapyla/</link></image><item><title>Direct laser writing of synthetic poly(amino acid) hydrogels and poly(ethylene glycol) diacrylates by two-photon polymerization</title><link>https://cnir-group.github.io/publication/kapyla-direct-2014/</link><pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/kapyla-direct-2014/</guid><description/></item><item><title>Direct laser writing and geometrical analysis of scaffolds with designed pore architecture for three-dimensional cell culturing</title><link>https://cnir-group.github.io/publication/kapyla-direct-2012/</link><pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/kapyla-direct-2012/</guid><description/></item><item><title>Behaviour of human adipose stem cells in microstructured scaffolds</title><link>https://cnir-group.github.io/publication/salonen-sanni-behaviour-2012/</link><pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/salonen-sanni-behaviour-2012/</guid><description/></item><item><title>Picosecond laser-induced polymerization of highly porous microscaffolds</title><link>https://cnir-group.github.io/publication/kapyla-elli-picosecond-2011/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/kapyla-elli-picosecond-2011/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elli Käpylä | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/elli-kapyla/</link>
+      <atom:link href="https://cnir-group.github.io/authors/elli-kapyla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elli Käpylä</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Elli Käpylä</title>
+      <link>https://cnir-group.github.io/authors/elli-kapyla/</link>
+    </image>
+    
+    <item>
+      <title>Direct laser writing of synthetic poly(amino acid) hydrogels and poly(ethylene glycol) diacrylates by two-photon polymerization</title>
+      <link>https://cnir-group.github.io/publication/kapyla-direct-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/kapyla-direct-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct laser writing and geometrical analysis of scaffolds with designed pore architecture for three-dimensional cell culturing</title>
+      <link>https://cnir-group.github.io/publication/kapyla-direct-2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/kapyla-direct-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behaviour of human adipose stem cells in microstructured scaffolds</title>
+      <link>https://cnir-group.github.io/publication/salonen-sanni-behaviour-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/salonen-sanni-behaviour-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picosecond laser-induced polymerization of highly porous microscaffolds</title>
+      <link>https://cnir-group.github.io/publication/kapyla-elli-picosecond-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/kapyla-elli-picosecond-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

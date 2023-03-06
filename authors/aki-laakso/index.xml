@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aki Laakso | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/aki-laakso/</link><atom:link href="https://cnir-group.github.io/authors/aki-laakso/index.xml" rel="self" type="application/rss+xml"/><description>Aki Laakso</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Aki Laakso</title><link>https://cnir-group.github.io/authors/aki-laakso/</link></image><item><title>Real-time diffusion MRI-based tractography guided TMS speech cortical mapping</title><link>https://cnir-group.github.io/publication/lioumis-pantelis-real-time-2019/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/lioumis-pantelis-real-time-2019/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aki Laakso | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/aki-laakso/</link>
+      <atom:link href="https://cnir-group.github.io/authors/aki-laakso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aki Laakso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Aki Laakso</title>
+      <link>https://cnir-group.github.io/authors/aki-laakso/</link>
+    </image>
+    
+    <item>
+      <title>Real-time diffusion MRI-based tractography guided  TMS speech cortical mapping</title>
+      <link>https://cnir-group.github.io/publication/lioumis-pantelis-real-time-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/lioumis-pantelis-real-time-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

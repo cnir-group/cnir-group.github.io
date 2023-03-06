@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tuomas P. Mutanen | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/tuomas-p.-mutanen/</link><atom:link href="https://cnir-group.github.io/authors/tuomas-p.-mutanen/index.xml" rel="self" type="application/rss+xml"/><description>Tuomas P. Mutanen</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Tuomas P. Mutanen</title><link>https://cnir-group.github.io/authors/tuomas-p.-mutanen/</link></image><item><title>Whole-brain structural connectivity affects TMS–EEG signal propagation</title><link>https://cnir-group.github.io/publication/ukharova-whole-brain-2022/</link><pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/ukharova-whole-brain-2022/</guid><description/></item><item><title>Software architecture for closed-loop multi-locus transcranial magnetic stimulation</title><link>https://cnir-group.github.io/publication/kahilakoski-software-2021/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/kahilakoski-software-2021/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuomas P. Mutanen | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/tuomas-p.-mutanen/</link>
+      <atom:link href="https://cnir-group.github.io/authors/tuomas-p.-mutanen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tuomas P. Mutanen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Tuomas P. Mutanen</title>
+      <link>https://cnir-group.github.io/authors/tuomas-p.-mutanen/</link>
+    </image>
+    
+    <item>
+      <title>Whole-brain structural connectivity affects TMS–EEG signal propagation</title>
+      <link>https://cnir-group.github.io/publication/ukharova-whole-brain-2022/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/ukharova-whole-brain-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software architecture for closed-loop multi-locus transcranial magnetic stimulation</title>
+      <link>https://cnir-group.github.io/publication/kahilakoski-software-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/kahilakoski-software-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

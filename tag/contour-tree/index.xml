@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>contour tree | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/tag/contour-tree/</link><atom:link href="https://cnir-group.github.io/tag/contour-tree/index.xml" rel="self" type="application/rss+xml"/><description>contour tree</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>contour tree</title><link>https://cnir-group.github.io/tag/contour-tree/</link></image><item><title>Contour tree connectivity of binary images from algebraic graph theory</title><link>https://cnir-group.github.io/publication/aydogan-contour-2013/</link><pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/aydogan-contour-2013/</guid><description/></item><item><title>Analysis of Trabecular Bone Microstructure Using Contour Tree Connectivity</title><link>https://cnir-group.github.io/publication/aydogan-analysis-2013/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/aydogan-analysis-2013/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contour tree | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/tag/contour-tree/</link>
+      <atom:link href="https://cnir-group.github.io/tag/contour-tree/index.xml" rel="self" type="application/rss+xml" />
+    <description>contour tree</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>contour tree</title>
+      <link>https://cnir-group.github.io/tag/contour-tree/</link>
+    </image>
+    
+    <item>
+      <title>Contour tree connectivity of binary images from algebraic graph theory</title>
+      <link>https://cnir-group.github.io/publication/aydogan-contour-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/aydogan-contour-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Trabecular Bone Microstructure Using Contour Tree Connectivity</title>
+      <link>https://cnir-group.github.io/publication/aydogan-analysis-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/aydogan-analysis-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

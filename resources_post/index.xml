@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest News | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/resources_post/</link><atom:link href="https://cnir-group.github.io/resources_post/index.xml" rel="self" type="application/rss+xml"/><description>Latest News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Latest News</title><link>https://cnir-group.github.io/resources_post/</link></image><item><title>We are kicking off the CNIR group's web-site!</title><link>https://cnir-group.github.io/resources_post/trekker/</link><pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/resources_post/trekker/</guid><description>&lt;p>We are kicking off the CNIR group&amp;rsquo;s web-site!&lt;/p>
-&lt;p>Welcome to Computational NeuroImaging Research (CNIR) group! We are a team of dedicated engineers who are passionate about advancing the understanding of the brain and help treat its disorders. We aim to develop new methods and tools for neuroscience and clinical research. Our research focuses on using advanced imaging techniques such as magnetic resonance imaging (MRI) and diffusion tensor imaging (DTI) to study the structure and function of the brain and its connections, or tracts.&lt;/p>
-&lt;p>We believe that by studying the brain in detail, we can gain insights into a wide range of neurological and psychiatric conditions, and ultimately improve patient care. Our research is at the forefront of the field, and we are always striving to push the boundaries of what is possible.&lt;/p>
-&lt;p>We are excited to share our research with you, and we invite you to explore our website to learn more about what we do. Thank you for visiting, and we hope you will continue to follow our work as we strive to make meaningful contributions to the field.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/resources_post/</link>
+      <atom:link href="https://cnir-group.github.io/resources_post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Latest News</title>
+      <link>https://cnir-group.github.io/resources_post/</link>
+    </image>
+    
+    <item>
+      <title>We are kicking off the CNIR group&#39;s web-site!</title>
+      <link>https://cnir-group.github.io/resources_post/trekker/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/resources_post/trekker/</guid>
+      <description>&lt;p&gt;We are kicking off the CNIR group&amp;rsquo;s web-site!&lt;/p&gt;
+&lt;p&gt;Welcome to Computational NeuroImaging Research (CNIR) group! We are a team of dedicated engineers who are passionate about advancing the understanding of the brain and help treat its disorders. We aim to develop new methods and tools for neuroscience and clinical research. Our research focuses on using advanced imaging techniques such as magnetic resonance imaging (MRI) and diffusion tensor imaging (DTI) to study the structure and function of the brain and its connections, or tracts.&lt;/p&gt;
+&lt;p&gt;We believe that by studying the brain in detail, we can gain insights into a wide range of neurological and psychiatric conditions, and ultimately improve patient care. Our research is at the forefront of the field, and we are always striving to push the boundaries of what is possible.&lt;/p&gt;
+&lt;p&gt;We are excited to share our research with you, and we invite you to explore our website to learn more about what we do. Thank you for visiting, and we hope you will continue to follow our work as we strive to make meaningful contributions to the field.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

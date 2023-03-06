@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antti Vehkaoja | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/antti-vehkaoja/</link><atom:link href="https://cnir-group.github.io/authors/antti-vehkaoja/index.xml" rel="self" type="application/rss+xml"/><description>Antti Vehkaoja</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Antti Vehkaoja</title><link>https://cnir-group.github.io/authors/antti-vehkaoja/</link></image><item><title>Comparison of Different Structures of Silver Yarn Electrodes for Mobile Monitoring</title><link>https://cnir-group.github.io/publication/comert-comparison-2009/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/comert-comparison-2009/</guid><description/></item><item><title>System for ECG and heart rate monitoring during group training</title><link>https://cnir-group.github.io/publication/vehkaoja-system-2008/</link><pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/vehkaoja-system-2008/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antti Vehkaoja | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/antti-vehkaoja/</link>
+      <atom:link href="https://cnir-group.github.io/authors/antti-vehkaoja/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antti Vehkaoja</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Antti Vehkaoja</title>
+      <link>https://cnir-group.github.io/authors/antti-vehkaoja/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of Different Structures of Silver Yarn Electrodes for Mobile Monitoring</title>
+      <link>https://cnir-group.github.io/publication/comert-comparison-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/comert-comparison-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System for ECG and heart rate monitoring during group training</title>
+      <link>https://cnir-group.github.io/publication/vehkaoja-system-2008/</link>
+      <pubDate>Fri, 01 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/vehkaoja-system-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

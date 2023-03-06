@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alberto Cacciola | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/alberto-cacciola/</link><atom:link href="https://cnir-group.github.io/authors/alberto-cacciola/index.xml" rel="self" type="application/rss+xml"/><description>Alberto Cacciola</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Alberto Cacciola</title><link>https://cnir-group.github.io/authors/alberto-cacciola/</link></image><item><title>Network analysis shows decreased ipsilesional structural connectivity in glioma patients</title><link>https://cnir-group.github.io/publication/fekonja-network-2022/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/fekonja-network-2022/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Cacciola | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/alberto-cacciola/</link>
+      <atom:link href="https://cnir-group.github.io/authors/alberto-cacciola/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Cacciola</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Alberto Cacciola</title>
+      <link>https://cnir-group.github.io/authors/alberto-cacciola/</link>
+    </image>
+    
+    <item>
+      <title>Network analysis shows decreased ipsilesional structural connectivity in glioma patients</title>
+      <link>https://cnir-group.github.io/publication/fekonja-network-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/fekonja-network-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

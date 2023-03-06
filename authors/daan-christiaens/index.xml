@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Daan Christiaens | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/daan-christiaens/</link><atom:link href="https://cnir-group.github.io/authors/daan-christiaens/index.xml" rel="self" type="application/rss+xml"/><description>Daan Christiaens</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Daan Christiaens</title><link>https://cnir-group.github.io/authors/daan-christiaens/</link></image><item><title>A data-driven variability assessment of brain diffusion MRI preprocessing pipelines</title><link>https://cnir-group.github.io/publication/veraart-data-driven-2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/veraart-data-driven-2022/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daan Christiaens | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/daan-christiaens/</link>
+      <atom:link href="https://cnir-group.github.io/authors/daan-christiaens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daan Christiaens</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Daan Christiaens</title>
+      <link>https://cnir-group.github.io/authors/daan-christiaens/</link>
+    </image>
+    
+    <item>
+      <title>A data-driven variability assessment of brain diffusion MRI preprocessing pipelines</title>
+      <link>https://cnir-group.github.io/publication/veraart-data-driven-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/veraart-data-driven-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

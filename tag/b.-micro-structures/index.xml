@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>B. Micro-structures | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/tag/b.-micro-structures/</link><atom:link href="https://cnir-group.github.io/tag/b.-micro-structures/index.xml" rel="self" type="application/rss+xml"/><description>B. Micro-structures</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>B. Micro-structures</title><link>https://cnir-group.github.io/tag/b.-micro-structures/</link></image><item><title>Determination of bioceramic filler distribution and porosity of self-reinforced bioabsorbable composites using micro-computed tomography</title><link>https://cnir-group.github.io/publication/niemela-determination-2011/</link><pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/niemela-determination-2011/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Micro-structures | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/tag/b.-micro-structures/</link>
+      <atom:link href="https://cnir-group.github.io/tag/b.-micro-structures/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Micro-structures</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>B. Micro-structures</title>
+      <link>https://cnir-group.github.io/tag/b.-micro-structures/</link>
+    </image>
+    
+    <item>
+      <title>Determination of bioceramic filler distribution and porosity of self-reinforced bioabsorbable composites using micro-computed tomography</title>
+      <link>https://cnir-group.github.io/publication/niemela-determination-2011/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/niemela-determination-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

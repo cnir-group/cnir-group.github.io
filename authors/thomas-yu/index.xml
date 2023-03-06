@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thomas Yu | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/thomas-yu/</link><atom:link href="https://cnir-group.github.io/authors/thomas-yu/index.xml" rel="self" type="application/rss+xml"/><description>Thomas Yu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Thomas Yu</title><link>https://cnir-group.github.io/authors/thomas-yu/</link></image><item><title>Tractography dissection variability: What happens when 42 groups dissect 14 white matter bundles on the same dataset?</title><link>https://cnir-group.github.io/publication/schilling-tractography-2021/</link><pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/schilling-tractography-2021/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Yu | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/thomas-yu/</link>
+      <atom:link href="https://cnir-group.github.io/authors/thomas-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Thomas Yu</title>
+      <link>https://cnir-group.github.io/authors/thomas-yu/</link>
+    </image>
+    
+    <item>
+      <title>Tractography dissection variability: What happens when 42 groups dissect 14 white matter bundles on the same dataset?</title>
+      <link>https://cnir-group.github.io/publication/schilling-tractography-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/schilling-tractography-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

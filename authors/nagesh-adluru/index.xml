@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nagesh Adluru | CNIR Group - Dogu Baran Aydogan</title><link>https://cnir-group.github.io/authors/nagesh-adluru/</link><atom:link href="https://cnir-group.github.io/authors/nagesh-adluru/index.xml" rel="self" type="application/rss+xml"/><description>Nagesh Adluru</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><image><url>https://cnir-group.github.io/media/sharing.png</url><title>Nagesh Adluru</title><link>https://cnir-group.github.io/authors/nagesh-adluru/</link></image><item><title>Insights from the IronTract challenge: Optimal methods for mapping brain pathways from multi-shell diffusion MRI</title><link>https://cnir-group.github.io/publication/maffei-insights-2022/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/maffei-insights-2022/</guid><description/></item><item><title>A data-driven variability assessment of brain diffusion MRI preprocessing pipelines</title><link>https://cnir-group.github.io/publication/veraart-data-driven-2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/veraart-data-driven-2022/</guid><description/></item><item><title>New insights from the IronTract challenge: Simple post-processing enhances the accuracy of diffusion tractography</title><link>https://cnir-group.github.io/publication/maffei-new-2021/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/maffei-new-2021/</guid><description/></item><item><title>The IronTract challenge: Validation and optimal tractography methods for the HCP diffusion acquisition scheme</title><link>https://cnir-group.github.io/publication/maffei-irontract-2020/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://cnir-group.github.io/publication/maffei-irontract-2020/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nagesh Adluru | CNIR Group - Dogu Baran Aydogan</title>
+    <link>https://cnir-group.github.io/authors/nagesh-adluru/</link>
+      <atom:link href="https://cnir-group.github.io/authors/nagesh-adluru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nagesh Adluru</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cnir-group.github.io/media/sharing.png</url>
+      <title>Nagesh Adluru</title>
+      <link>https://cnir-group.github.io/authors/nagesh-adluru/</link>
+    </image>
+    
+    <item>
+      <title>Insights from the IronTract challenge: Optimal methods for mapping brain pathways from multi-shell diffusion MRI</title>
+      <link>https://cnir-group.github.io/publication/maffei-insights-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/maffei-insights-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A data-driven variability assessment of brain diffusion MRI preprocessing pipelines</title>
+      <link>https://cnir-group.github.io/publication/veraart-data-driven-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/veraart-data-driven-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New insights from the IronTract challenge: Simple post-processing enhances the accuracy of diffusion tractography</title>
+      <link>https://cnir-group.github.io/publication/maffei-new-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/maffei-new-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The IronTract challenge: Validation and optimal tractography methods for the HCP diffusion acquisition scheme</title>
+      <link>https://cnir-group.github.io/publication/maffei-irontract-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cnir-group.github.io/publication/maffei-irontract-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
