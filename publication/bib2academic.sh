@@ -8,4 +8,7 @@ academic import --overwrite --bibtex content/publication/pubs.bib
 
 cd content/publication
 
-# find . -name "*.md" -type f -exec sed -i 's/Dogu Baran Aydogan/admin/g' {} +
+
+find . -name "*.md" -type f -exec sed -i 's/Dogu Baran Aydogan/admin/g' {} +
+find . -name "*.md" -type f -exec sed -i 's/Baran Aydogan/admin/g' {} +
+find . -name "*.md" -type f -exec sed -i 's/Joonas Laurinoja/joonas/g' {} +
