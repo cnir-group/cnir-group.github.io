@@ -2,9 +2,11 @@
 
 cd ../..
 
-# pip install -U academic
+# /home/baran/Work/code/external/Python-3.8.12/build/pip3 install -U academic
 
-academic import --overwrite --bibtex content/publication/pubs.bib content/publication
+academic=/home/baran/Work/code/external/Python-3.8.12/build/bin/academic
+
+$academic import --overwrite --bibtex content/publication/pubs.bib content/publication
 
 cd content/publication
 
